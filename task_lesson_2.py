@@ -6,3 +6,4 @@
 # browser.element('[id=react-layout]').should(have.text('User-oriented Web UI browser tests in Python'))
 
 print('Hello ' + ' World!!!')
+wrd = 'conflict'
