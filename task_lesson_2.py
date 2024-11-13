@@ -9,3 +9,4 @@ print('Hello ' + ' World!!!')
 wrd = 'conflict'
 print(wrd * 3)
 a = 12
+b = 7
