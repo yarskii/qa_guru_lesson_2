@@ -7,4 +7,4 @@
 
 print('Hello ' + ' World!!!')
 wrd = 'conflict'
-print(wrd)
+print(wrd * 2)
