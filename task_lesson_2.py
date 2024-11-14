@@ -10,4 +10,4 @@ wrd = 'conflict'
 print(wrd * 3)
 a = 12
 b = 1
-print(a * b)
+print(a + a * b)
